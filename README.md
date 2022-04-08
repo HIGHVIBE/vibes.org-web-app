@@ -17,9 +17,9 @@ We are the creators or the Highvibe Network, so if you don't know who we are, ta
 [Highvibe Discord](https://discord.gg/highvibe "Highvibe Discord")
 
 ## What is [Vibes.org](http:/vibes.org/ "Vibes.org")?
-To keep it short, vibes.org is the place to create, acquire, collect, sell, distribute, and experience web3 assets relating to wellness, personal growth, and an elevated human experience.
+In summary, vibes.org is the place to create, acquire, collect, sell, distribute, and experience web3 assets relating to wellness and personal growth, and a gateway to elevating our human experience.
 
-At Highvibe, we believe in living our best lives, and that Web3 has the power to bring a wealth of new opportunities to artists, creators, and rockstar human beings that are working hard to empower and elevate our collective human experience. 
+At Highvibe, we believe in striving to live our best lives, and that Web3 has the power to bring a wealth of new opportunities to artists, creators, and rockstar human beings that are working to empower each other.
 
 ## Who is Vibes.org for?
 
