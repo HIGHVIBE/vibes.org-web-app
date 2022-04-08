@@ -6,7 +6,7 @@
 
 Welcome to the [Vibes.org](http:/vibes.org/ "Vibes.org") Github!
 
-Vibes.org is the main platform application for the Highvibe.network. We are a growing, fully remote, globally distributed team - and are working hard to bring an incredible Web3 experience to our users.
+Vibes.org is the main platform application for the Highvibe Network. We are a growing, fully remote, globally distributed team - and are working hard to bring an incredible Web3 experience to our users.
 
 We are the creators or the Highvibe Network, so if you don't know who we are, take a look here →
 
