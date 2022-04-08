@@ -2,13 +2,19 @@
 # ✨ 😁 ✨ 🧐 ✨ 🤫 ✨ 🤑 ✨ 😉 ✨ 😁 ✨
 # ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
-# The vibes are coming for you... 
+# The vibes are here to uplift and empower.
 
 Welcome to the [Vibes.org](http:/vibes.org/ "Vibes.org") Github!
 
 Vibes.org is the main platform application for the Highvibe.network. We are a growing, fully remote, globally distributed team - and are working hard to bring an incredible Web3 experience to our users.
 
-We are the creators or the Highvibe Network, so if you don't know who we are, take a look here → **https://www.highvibe.network**
+We are the creators or the Highvibe Network, so if you don't know who we are, take a look here →
+
+[Highvibe Website](https://www.highvibe.network/ "Highvibe Website")
+
+[Highvibe Twitter](https://twitter.com/highvibenetwork?lang=en "Highvibe Twitter")
+
+[Highvibe Discord](https://discord.gg/highvibe "Highvibe Discord")
 
 ## What is [Vibes.org](http:/vibes.org/ "Vibes.org")?
 To keep it short, vibes.org is the place to create, acquire, collect, sell, distribute, and experience web3 assets relating to wellness, personal growth, and an elevated human experience.
