@@ -27,11 +27,11 @@ At Highvibe, we believe in striving to live our best lives, and that Web3 has th
 
 **Are you an artist?** → Use our toolsuite to create, organise, manage, mint and sell your valuable NFT collections.
 
-**Do you like to meditate?** → Do your meditations here and Earn VIBES rewards for stepping into your best self.
+**Do you like to meditate?** → Do your meditations here and Earn $VIBES rewards for stepping into your best self.
 
 **Are you a thought leader?** → Mint and own your blog posts, and get rewards for follower engagement.
 
-**Are you an investor?** → Join our staking pool and earn some of the most competitive APYs on your VIBES tokens.
+**Are you an investor?** → Join our staking pool and earn some of the most competitive APYs on your $VIBES tokens.
 
 **Are you looking for an amazing community?** → Highvibers help each other out. [Join our Discord!](https://discord.gg/T9RGy3ak7Q "Join our Discord!") ✨ and get help in the *Wishing Well* **™️**
 
